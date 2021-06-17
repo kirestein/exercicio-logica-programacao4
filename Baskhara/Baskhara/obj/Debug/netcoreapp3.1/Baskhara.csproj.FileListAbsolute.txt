@@ -1,0 +1,13 @@
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\bin\Debug\netcoreapp3.1\Baskhara.exe
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\bin\Debug\netcoreapp3.1\Baskhara.deps.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\bin\Debug\netcoreapp3.1\Baskhara.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\bin\Debug\netcoreapp3.1\Baskhara.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\bin\Debug\netcoreapp3.1\Baskhara.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\bin\Debug\netcoreapp3.1\Baskhara.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\obj\Debug\netcoreapp3.1\Baskhara.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\obj\Debug\netcoreapp3.1\Baskhara.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\obj\Debug\netcoreapp3.1\Baskhara.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\obj\Debug\netcoreapp3.1\Baskhara.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\obj\Debug\netcoreapp3.1\Baskhara.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\obj\Debug\netcoreapp3.1\Baskhara.genruntimeconfig.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao4\Baskhara\Baskhara\obj\Debug\netcoreapp3.1\Baskhara.csproj.AssemblyReference.cache
